@@ -1,0 +1,11 @@
+id,name,city,latitude,longitude,elevation_m,drainage_capacity_mmh,critical_water_level_m,historical_flood_count,is_simulated
+LOC-001,Adyar River Basin Lowland,Metropolitan District,13.0118,80.2372,4.5,35.0,2.8,11,true
+LOC-002,Central Rail Underpass,Metropolitan District,13.0839,80.2755,2.1,20.0,1.5,14,true
+LOC-003,Velachery Lake Catchment,Metropolitan District,12.9815,80.2180,5.8,40.0,3.2,9,true
+LOC-004,Marina Coastal Foreshore,Metropolitan District,13.0475,80.2824,3.2,45.0,2.5,7,true
+LOC-005,North Industrial Culvert,Metropolitan District,13.1420,80.2110,7.4,50.0,3.0,5,true
+LOC-006,Old Town Commercial Basin,Metropolitan District,13.0612,80.2520,3.8,28.0,2.2,12,true
+LOC-007,Tech Corridor Canal Sluice,Metropolitan District,12.9249,80.2280,6.2,38.0,2.9,6,true
+LOC-008,Western Bypass Embankment,Metropolitan District,13.0450,80.1600,11.5,55.0,3.5,3,true
+LOC-009,Harbor Dock Gate Lowland,Metropolitan District,13.0980,80.2980,2.5,30.0,1.8,10,true
+LOC-010,South Valley Foothills,Metropolitan District,12.8900,80.1750,18.0,65.0,4.2,2,true
